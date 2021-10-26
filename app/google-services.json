@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141394642550",
+    "project_id": "mewchelin-5b4af",
+    "storage_bucket": "mewchelin-5b4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141394642550:android:44ec1d5221da666dc00157",
+        "android_client_info": {
+          "package_name": "com.example.android.mewchelin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141394642550-0il52f3ip7vvjbbbebm9r17mvp8v6sh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEMPMV4DcR92tHVliMLZbRXHjYzRsUcAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141394642550-0il52f3ip7vvjbbbebm9r17mvp8v6sh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

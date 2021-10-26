@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mewchelin</string>
+    <string name="facebook_app_id">669953370634110</string>
+    <string name="fb_login_protocol_scheme">fb669953370634110</string>
+
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_email">Sign in with Email</string>
+    <string name="signin_google">Google login</string>
+    <string name="signin_facebook">Facebook login</string>
+    <string name="sign_up_email">Not a member yet? Sign up</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
